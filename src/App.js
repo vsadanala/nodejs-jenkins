@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-        <h1> Learn React from Amal Al Shaikh of Saudi King, an updated version 1.0 </h1>
+        <h1> Learn React & nodejs from Amal Al Shaikh of Saudi King, an updated version 1.0 </h1>
         </a>
       </header>
     </div>
